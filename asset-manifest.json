@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/greenkart/static/css/main.5f361e03.chunk.css",
+    "main.js": "/greenkart/static/js/main.3ea60881.chunk.js",
+    "main.js.map": "/greenkart/static/js/main.3ea60881.chunk.js.map",
+    "runtime-main.js": "/greenkart/static/js/runtime-main.71df108d.js",
+    "runtime-main.js.map": "/greenkart/static/js/runtime-main.71df108d.js.map",
+    "static/js/2.316240f9.chunk.js": "/greenkart/static/js/2.316240f9.chunk.js",
+    "static/js/2.316240f9.chunk.js.map": "/greenkart/static/js/2.316240f9.chunk.js.map",
+    "index.html": "/greenkart/index.html",
+    "precache-manifest.7583800904480dc38a08aab016bb1fbd.js": "/greenkart/precache-manifest.7583800904480dc38a08aab016bb1fbd.js",
+    "service-worker.js": "/greenkart/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/greenkart/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.316240f9.chunk.js.LICENSE.txt": "/greenkart/static/js/2.316240f9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/greenkart/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71df108d.js",
+    "static/js/2.316240f9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3ea60881.chunk.js"
+  ]
+}
