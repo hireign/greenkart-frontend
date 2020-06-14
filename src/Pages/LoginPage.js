@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
-import LoginForm from '../Forms/login';
-import './LoginPage.css'
+import LoginForm from '../Forms/LoginForm';
+import './LoginPage.css';
 
 class LoginPage extends Component{
     
     render(){
         return(
             <>
+            <div className="root">
                 <h1>Login</h1>
                 <div className="form" >
                     <LoginForm/>
@@ -17,6 +18,7 @@ class LoginPage extends Component{
                     <h4>How are you doing today?</h4>
                     <span>We are happy to have you on our team of gardeners, home planters, and tree-huggers!</span>
                 </div>
+            </div>
             </>
         );
     }

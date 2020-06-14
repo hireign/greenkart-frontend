@@ -6,6 +6,8 @@ import Navbar from './components/Navbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
 import LoginPage from './Pages/LoginPage';
+import ContactUsPage from './Pages/ContactUsPage';
+import HomePage from './Pages/HomePage';
 
 function App() {
   return (
@@ -13,7 +15,9 @@ function App() {
       <Navbar />
       <BrowserRouter>
         <Switch>
+            <Route exact path='/' component={HomePage} /> 
             <Route exact path='/login' component={LoginPage} /> 
+            <Route exact path='/contactus' component={ContactUsPage} /> 
         </Switch>
       </BrowserRouter>
     </div>
