@@ -27,9 +27,6 @@ class SearchLandingPage extends Component{
                                     <option value="Tools">Tools</option>
                                 </Field>
                             </Formik>
-                            <Formik>
-                                <Field type="price" placeholder="Max Price" name="price" style={{width:100, marginLeft:"20px", marginTop: '8px', marginBottom: '8px'}}/>
-                            </Formik>
                     </div>
                     <div className="productListing">
                         <ProductListing/>

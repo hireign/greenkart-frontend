@@ -9,6 +9,7 @@ import LoginPage from './Pages/LoginPage';
 import ContactUsPage from './Pages/ContactUsPage';
 import HomePage from './Pages/HomePage';
 import SearchLandingPage from './Pages/SearchLandingPage';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
             <Route exact path='/search' component={SearchLandingPage} /> 
         </Switch>
       </BrowserRouter>
+      <Footer/>
     </div>
   );
 }

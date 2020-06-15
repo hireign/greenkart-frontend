@@ -4,7 +4,7 @@ import './Navbar.css'
 
 function Navbar(){
     return <nav className="navbar navbar-expand-lg navbar-light bg-light">
-    <a className="navbar-brand" href="#"><img src={logo} style={{width:170}}/></a>
+    <a className="navbar-brand" href="/"><img src={logo} style={{width:170}}/></a>
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav mr-auto">
         <li className="nav-item dropdown">
@@ -12,10 +12,6 @@ function Navbar(){
             Seeds
           </a>
           <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a className="dropdown-item" href="#">Action</a>
-            <a className="dropdown-item" href="#">Another action</a>
-            <div className="dropdown-divider"></div>
-            <a className="dropdown-item" href="#">Something else here</a>
           </div>
         </li>
         <li className="nav-item dropdown">
@@ -23,10 +19,6 @@ function Navbar(){
             Plants
           </a>
           <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a className="dropdown-item" href="#">Action</a>
-            <a className="dropdown-item" href="#">Another action</a>
-            <div className="dropdown-divider"></div>
-            <a className="dropdown-item" href="#">Something else here</a>
           </div>
         </li>
         <li className="nav-item dropdown">
@@ -34,10 +26,6 @@ function Navbar(){
             Tools
           </a>
           <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a className="dropdown-item" href="#">Action</a>
-            <a className="dropdown-item" href="#">Another action</a>
-            <div className="dropdown-divider"></div>
-            <a className="dropdown-item" href="#">Something else here</a>
           </div>
         </li>
         <li className="nav-item dropdown">
@@ -45,10 +33,6 @@ function Navbar(){
           Supplies
           </a>
           <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a className="dropdown-item" href="#">Action</a>
-            <a className="dropdown-item" href="#">Another action</a>
-            <div className="dropdown-divider"></div>
-            <a className="dropdown-item" href="#">Something else here</a>
           </div>
         </li>
       </ul>
@@ -65,10 +49,7 @@ function Navbar(){
               My Account
             </a>
             <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a className="dropdown-item" href="#">Action</a>
-              <a className="dropdown-item" href="#">Another action</a>
-              <div className="dropdown-divider"></div>
-              <a className="dropdown-item" href="#">Something else here</a>
+              <a className="dropdown-item" href="login">Login</a>
             </div>
           </li>
         </ul>
