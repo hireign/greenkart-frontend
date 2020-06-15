@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/greenkart/static/css/main.5acf93cc.chunk.css",
+    "main.js": "/greenkart/static/js/main.6c544da9.chunk.js",
+    "main.js.map": "/greenkart/static/js/main.6c544da9.chunk.js.map",
+    "runtime-main.js": "/greenkart/static/js/runtime-main.71df108d.js",
+    "runtime-main.js.map": "/greenkart/static/js/runtime-main.71df108d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/greenkart/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.82d66950.chunk.js": "/greenkart/static/js/2.82d66950.chunk.js",
+    "static/js/2.82d66950.chunk.js.map": "/greenkart/static/js/2.82d66950.chunk.js.map",
+    "index.html": "/greenkart/index.html",
+    "precache-manifest.79e2138aae33b8202daff748234b7a92.js": "/greenkart/precache-manifest.79e2138aae33b8202daff748234b7a92.js",
+    "service-worker.js": "/greenkart/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/greenkart/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5acf93cc.chunk.css.map": "/greenkart/static/css/main.5acf93cc.chunk.css.map",
+    "static/js/2.82d66950.chunk.js.LICENSE.txt": "/greenkart/static/js/2.82d66950.chunk.js.LICENSE.txt",
+    "static/media/GreenKartLogo_transparent.png": "/greenkart/static/media/GreenKartLogo_transparent.664aed2a.png",
+    "static/media/img2.jpg": "/greenkart/static/media/img2.015d76c8.jpg",
+    "static/media/img3.jpg": "/greenkart/static/media/img3.41887919.jpg",
+    "static/media/img4.jpg": "/greenkart/static/media/img4.02f52944.jpg",
+    "static/media/img5.jpg": "/greenkart/static/media/img5.d987d01c.jpg",
+    "static/media/img6.jpg": "/greenkart/static/media/img6.595326af.jpg",
+    "static/media/logo.svg": "/greenkart/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71df108d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.82d66950.chunk.js",
+    "static/css/main.5acf93cc.chunk.css",
+    "static/js/main.6c544da9.chunk.js"
+  ]
+}
