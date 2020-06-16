@@ -5,7 +5,7 @@ import productimg from '../images/img2.jpg';
 
 function ProductListing(){
     return <div class="row row-cols-1 row-cols-md-4">
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -20,7 +20,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -35,7 +35,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -50,7 +50,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -65,7 +65,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -80,7 +80,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -95,7 +95,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -110,7 +110,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -125,7 +125,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -140,7 +140,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -155,7 +155,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">
@@ -170,7 +170,7 @@ function ProductListing(){
       </div>
     </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 productlisting">
     <div class="card h-100">
       <img src={productimg} class="card-img-top" alt="..."/>
       <div class="card-body">

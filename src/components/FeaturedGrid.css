@@ -21,3 +21,8 @@
 @media only screen and (max-width: 0px) {
     /* For mobile phones: */
 }
+
+.featuredCard:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+  }

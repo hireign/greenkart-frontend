@@ -14,4 +14,4 @@ app.get('/*', function (req, res) {
 
 
 app.listen(port);
-console.log("listening" + port);
+console.log("listening to " + port);

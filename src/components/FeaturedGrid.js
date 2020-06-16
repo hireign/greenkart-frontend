@@ -7,7 +7,7 @@ import featuredimg4 from '../images/img6.jpg';
 
 function FeaturedGrid() {
     return <div class="row justify-content-center row-cols-1 row-cols-md-2 featuredGridDiv">
-    <div class="card mb-3" style={{maxWidth: '540px'}}>
+    <div class="card mb-3 featuredCard" style={{maxWidth: '540px'}}>
         <div class="row no-gutters">
             <div class="col-md-4" style={{width: '400px'}}>
                 <img src={featuredimg1} class="card-img" alt="..." style={{width: "400px", height: "300px"}}/>
@@ -17,7 +17,7 @@ function FeaturedGrid() {
                 </div>
         </div>
     </div>
-    <div class="card mb-3" style={{maxWidth: '540px'}}>
+    <div class="card mb-3 featuredCard" style={{maxWidth: '540px'}}>
         <div class="row no-gutters">
             <div class="col-md-4" style={{maxWidth: '400px'}}>
                 <img src={featuredimg2} class="card-img" alt="..." style={{width: "400px", height: "300px"}}/>
@@ -27,7 +27,7 @@ function FeaturedGrid() {
                 </div>
         </div>
     </div>
-    <div class="card mb-3" style={{maxWidth: '540px'}}>
+    <div class="card mb-3 featuredCard" style={{maxWidth: '540px'}}>
         <div class="row no-gutters">
             <div class="col-md-4" style={{width: '400px'}}>
                 <img src={featuredimg3} class="card-img" alt="..." style={{width: "400px", height: "300px"}}/>
@@ -37,7 +37,7 @@ function FeaturedGrid() {
                 </div>
         </div>
     </div>
-    <div class="card mb-3" style={{maxWidth: '540px'}}>
+    <div class="card mb-3 featuredCard" style={{maxWidth: '540px'}}>
         <div class="row no-gutters">
             <div class="col-md-4" style={{width: '400px'}}>
                 <img src={featuredimg4} class="card-img" alt="..." style={{width: "400px", height: "300px"}}/>

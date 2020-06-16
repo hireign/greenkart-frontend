@@ -7,7 +7,7 @@ class ContactUsPage extends Component{
     render(){
         return(
             <>
-            <div className="root">
+            <div className="root" style={{marginBottom:"600px"}}>
                 <h1>Contact Us</h1>
                 <div className="form" >
                     <ContactUsForm/>
